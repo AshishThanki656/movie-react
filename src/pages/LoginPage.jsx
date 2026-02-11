@@ -15,7 +15,7 @@ function LoginPage() {
 
   return (
     <div>
-      <h1> Welcomee!! {username}</h1>
+      <h1> Welcomee {username}!! </h1>
       <p>Enter your name To Log-In :</p>
 
       <form onSubmit={handleSubmit}>

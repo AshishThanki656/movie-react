@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin-top: 15rem;
+}
+
+button {
+  text-align: center;
+  margin-left: 35rem;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+input {
+  align-items: center;
+}
