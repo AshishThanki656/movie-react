@@ -503,13 +503,3 @@ const moviesData = [
 ];
 
 export default moviesData;
-
-/*
- * POSTER URLs INFO:
- * - All posters are from TMDB CDN (image.tmdb.org)
- * - These are direct image URLs that work WITHOUT any API key
- * - Format: https://image.tmdb.org/t/p/w500/{poster_path}
- * - w500 = 500px width (you can change to w300, w780, or 'original')
- * - These URLs are reliable and will work permanently
- * - FREE to use, no signup required, no rate limits on CDN
- */

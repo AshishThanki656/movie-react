@@ -1,0 +1,25 @@
+.login-page {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+}
+
+.login-form input {
+  padding: 8px;
+  width: 250px;
+  border: none;
+  outline: none;
+}
+
+.login-form button {
+  padding: 8px 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.login-box {
+  text-align: center;
+  color: white;
+}
